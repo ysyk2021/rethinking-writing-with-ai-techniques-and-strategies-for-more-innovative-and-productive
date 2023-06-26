@@ -30,7 +30,7 @@ Examples of successful implementation of AI in writing
 
 4. Automated Insights' Wordsmith platform generates personalized reports, articles, and summaries for businesses using natural language generation technology. With Wordsmith, companies can produce customized content at scale without requiring human intervention.
 
-5. OpenAI's GPT-3 language model has shown impressive results in generating coherent and engaging writing in various styles and formats, including poetry, fiction, and news articles.
+5. OpenAI's GPT-3.5 language model has shown impressive results in generating coherent and engaging writing in various styles and formats, including poetry, fiction, and news articles.
 
 Benefits of implementing AI in writing
 --------------------------------------

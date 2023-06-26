@@ -19,7 +19,7 @@ Content generation is another application of AI in writing. Machine learning alg
 
 One example of content generation in writing is Automated Insights' Wordsmith platform. Wordsmith generates personalized reports, articles, and summaries for businesses using natural language generation technology. With Wordsmith, companies can produce customized content at scale without requiring human intervention.
 
-Another example of content generation is OpenAI's GPT-3 language model. GPT-3 has shown impressive results in generating coherent and engaging writing in various styles and formats, including poetry, fiction, and news articles.
+Another example of content generation is OpenAI's GPT-3.5 language model. GPT-3.5 has shown impressive results in generating coherent and engaging writing in various styles and formats, including poetry, fiction, and news articles.
 
 Benefits of AI in Writing
 -------------------------

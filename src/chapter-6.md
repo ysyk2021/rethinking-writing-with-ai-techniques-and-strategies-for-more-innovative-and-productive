@@ -13,7 +13,7 @@ These tools can also help writers break out of creative ruts by providing fresh 
 Implementing Machine Learning-Powered Language Models for Experimental Writing Projects
 ---------------------------------------------------------------------------------------
 
-Machine learning-powered language models such as OpenAI's GPT-3 can be used to experiment with new forms and genres by generating text in various styles and formats. For example, a writer interested in exploring poetry can use GPT-3 to generate poems in different meters, rhyming schemes, and themes.
+Machine learning-powered language models such as OpenAI's GPT-3.5 can be used to experiment with new forms and genres by generating text in various styles and formats. For example, a writer interested in exploring poetry can use GPT-3.5 to generate poems in different meters, rhyming schemes, and themes.
 
 These language models can also be used to create more experimental writing projects, such as interactive narratives or collaborative storytelling. By leveraging the power of AI, writers can push the boundaries of traditional narrative structures and create engaging and innovative work.
 
