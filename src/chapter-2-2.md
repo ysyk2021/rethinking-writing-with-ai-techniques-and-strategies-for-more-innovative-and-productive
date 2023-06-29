@@ -32,4 +32,3 @@ By leveraging AI in writing, writers can:
 * Discover new insights and perspectives that may inform their writing
 * Enhance engagement and interaction with their target audience
 
-In the next chapter, we will provide examples of successful implementation of AI in various types of writing projects.

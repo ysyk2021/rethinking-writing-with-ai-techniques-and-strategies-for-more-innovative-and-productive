@@ -24,4 +24,3 @@ Applications of AI in writing
 
 AI has been increasingly applied in various aspects of writing, including content creation, editing, proofreading, and research. By leveraging AI-powered tools, writers can streamline their writing process, save time and effort, and produce more innovative and productive writing outcomes.
 
-In the next chapter, we will explore common applications of AI in writing, including natural language processing and content generation. We will also provide examples of successful implementation of AI in various types of writing projects.
