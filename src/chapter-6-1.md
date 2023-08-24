@@ -1,5 +1,3 @@
-Using AI-Powered Content Generation Tools for Exploring New Forms and Genres
-========================================================================================================================================
 
 In this chapter, we will explore how writers can experiment with new forms and genres through the use of AI-powered content generation tools. These tools can generate prompts and ideas based on specific parameters or topics, providing fresh perspectives and unexpected ideas for writers.
 

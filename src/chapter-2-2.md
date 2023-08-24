@@ -1,5 +1,3 @@
-Common applications of AI in writing, including natural language processing and content generation
-===============================================================================================================================================================
 
 In this chapter, we will explore the common applications of Artificial Intelligence (AI) in writing, including natural language processing (NLP) and content generation.
 

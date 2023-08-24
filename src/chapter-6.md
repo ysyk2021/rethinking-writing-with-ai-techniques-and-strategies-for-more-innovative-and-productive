@@ -1,5 +1,3 @@
-Chapter 5: Experimenting with New Forms and Genres with AI
-==========================================================
 
 In this chapter, we will explore how writers can experiment with new forms and genres through the use of Artificial Intelligence (AI). By leveraging AI-powered tools for content generation, language modeling, and feedback, writers can push the boundaries of their writing and explore new creative potentials.
 

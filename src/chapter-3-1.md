@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Research Tools to Gather Information and Sources
-====================================================================================================================================================
 
 Research is a critical component of effective writing, but it can be time-consuming and overwhelming. Machine learning has the potential to streamline the research process by automating certain tasks and providing writers with more comprehensive and accurate information. In this chapter, we'll explore how machine learning can be used to gather information and sources for research.
 
@@ -29,5 +27,4 @@ Conclusion
 ----------
 
 Machine learning has the potential to transform the research process by automating certain tasks and providing writers with more comprehensive and accurate information. By using machine learning-powered research tools like [Iris.ai](http://Iris.ai) and Google, writers can save time and effort in gathering information and sources for their writing projects. However, it's important to use these tools in moderation and continue developing critical thinking and original research skills to maintain creativity and accuracy.
-
 

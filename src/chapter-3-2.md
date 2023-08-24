@@ -1,5 +1,3 @@
-Machine learning-powered content generators and idea prompts for brainstorming and inspiration
-===================================================================================================================================================================
 
 In this chapter, we will explore how writers can leverage machine learning-powered content generators and idea prompts to spark creativity and generate new ideas for their writing projects. By using these tools, writers can streamline their brainstorming process, save time and effort, and ultimately produce more innovative and productive writing outcomes.
 

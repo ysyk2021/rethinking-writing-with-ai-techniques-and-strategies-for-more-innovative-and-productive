@@ -1,5 +1,3 @@
-Automating the Editing and Proofreading Process with Machine Learning
-=======================================================================================================================
 
 Artificial intelligence (AI) has revolutionized many industries, and writing is no exception. In this chapter, we'll explore how machine learning can be used to automate the editing and proofreading process, making it faster and more accurate.
 

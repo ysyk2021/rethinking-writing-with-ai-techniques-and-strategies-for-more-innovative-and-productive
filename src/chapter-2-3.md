@@ -1,5 +1,3 @@
-Examples of Successful Implementation of AI in Writing
-===================================================================================================================
 
 In this chapter, we will explore the basics of Artificial Intelligence (AI) and its applications in writing. We will also provide examples of successful implementation of AI in various types of writing projects.
 

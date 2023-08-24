@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, we've explored how artificial intelligence (AI) can be used to enhance the writing process and improve outcomes for writers. From automating the editing and proofreading process to creating customized content with machine learning, there are many ways that writers can leverage AI technology to become more productive and innovative.
 
