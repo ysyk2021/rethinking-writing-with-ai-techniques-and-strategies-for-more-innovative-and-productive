@@ -1,5 +1,4 @@
-Chapter: What is AI and How Does It Work?
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's rapidly evolving technological landscape, Artificial Intelligence (AI) has emerged as a powerful tool with the potential to revolutionize various fields, including writing. This chapter aims to demystify AI and provide readers with an understanding of its fundamental concepts, applications, and inner workings.
 

@@ -1,5 +1,4 @@
-Chapter: Leveraging AI-Powered Feedback and Insights for Improving Creative Writing Outcomes
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of AI techniques in the writing process offers opportunities not only for technical aspects but also for enhancing creative writing outcomes. This chapter explores strategies for leveraging AI-powered feedback and insights to foster innovation and productivity in creative writing.
 

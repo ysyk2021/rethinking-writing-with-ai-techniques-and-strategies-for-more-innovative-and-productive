@@ -1,5 +1,4 @@
-Chapter: Automating the Editing and Proofreading Process with Machine Learning
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the digital era, machine learning algorithms have revolutionized the editing and proofreading process, offering authors powerful tools to enhance the quality and accuracy of their writing. This chapter explores the techniques and strategies for leveraging machine learning to automate and streamline the editing and proofreading workflow.
 

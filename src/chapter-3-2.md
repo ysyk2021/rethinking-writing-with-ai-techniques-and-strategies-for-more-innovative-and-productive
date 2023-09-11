@@ -1,5 +1,4 @@
-Chapter: Machine Learning-Powered Content Generators and Idea Prompts for Brainstorming and Inspiration
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-powered writing, machine learning algorithms have revolutionized the way content is generated and ideas are sparked. This chapter explores the implementation of machine learning-powered content generators and idea prompts for enhancing brainstorming sessions and inspiring innovative and productive writing outcomes.
 

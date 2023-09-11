@@ -1,5 +1,4 @@
-Chapter: Addressing Concerns About Privacy and Security When Using AI in Writing
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As Artificial Intelligence (AI) continues to revolutionize the field of writing, concerns about privacy and security have become increasingly significant. This chapter explores the potential risks associated with using AI techniques in writing and offers strategies to address these concerns, ensuring that writers can harness the benefits of AI while safeguarding privacy and maintaining data security.
 

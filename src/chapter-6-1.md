@@ -1,5 +1,4 @@
-Chapter: Using AI-Powered Content Generation Tools for Exploring New Forms and Genres
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI-powered content generation tools have revolutionized the writing landscape by enabling authors to explore new forms and genres. This chapter delves into the strategies and techniques for leveraging AI to expand creative boundaries and delve into uncharted literary territory.
 

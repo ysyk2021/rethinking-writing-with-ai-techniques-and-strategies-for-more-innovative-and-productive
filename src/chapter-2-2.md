@@ -1,5 +1,4 @@
-Chapter: Common Applications of AI in Writing, Including Natural Language Processing and Content Generation
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has become an invaluable tool in the field of writing, offering various applications that enhance productivity, streamline processes, and enable more innovative and productive writing outcomes. This chapter explores common AI applications in writing, focusing on two essential areas: Natural Language Processing (NLP) and Content Generation.
 

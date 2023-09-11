@@ -1,5 +1,4 @@
-Chapter: Using Machine Learning-Powered Research Tools to Gather Information and Sources
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning algorithms have transformed the research process, enabling writers to collect and analyze vast amounts of data, identify patterns, and generate insights. In this chapter, we explore the use of machine learning-powered research tools for gathering information and sources, enhancing research efficiency, and improving the quality of written content.
 
